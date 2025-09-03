@@ -1,46 +1,87 @@
+# Visitekaartje
 
-![image](https://user-images.githubusercontent.com/1391509/188114337-54f6a9eb-dc0c-42e9-a455-6ac636edb7c6.jpeg)
+Maak jouw definitieve visitekaartje. Gebruik daarbij alles wat je tot nog toe geleerd hebt. Dit is een autonome taak dus er staat geen voorbeeld code. Je zult alle onderdelen zelf moeten uitvoeren.
 
-# Your Tribe - Visitekaartje
+## Context
 
-Ontwerp en maak met HTML, CSS en JS een visitekaartje.
+Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een autonome opdracht die je individueel uitvoert.
 
-### Context
+## Briefing
 
-Deze leertaak hoort bij Sprint 1 "Your Tribe". Dit is een leertaak die je individueel uitvoert.
+Op fdnd.nl komen alle visitekaartjes van de studenten te staan, op deze website kijken potentiele opdrachtgevers. Presenteer jezelf door middel van een digitaal visitekaartje. 
 
+## Doel van deze opdracht
 
-### Briefing
+- Zelfstandig de dev-lifecycle doorlopen
+- Een defintief visitekaartje maken
 
-Elke frontender bij FDND stelt zichzelf binnen de tribe voor door middel van een visitekaartje. Maak een visitekaartje op basis van [dit voorbeeld](https://fdnd-task.github.io/your-tribe-profile-card/) en publiceer dat via GitHub Pages.
+## Werkwijze
 
+Deze opdracht gaat over alle fases van de dev-lifecycle [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
 
-### Doel van deze opdracht
+Volg de development lifecycle zoals je dat deze week hebt leren doen. Je kunt de cycle meerdere malen doorlopen. Het is aan te raden in eerste instantie een minimale versie online te zetten en deze daarna systematisch uit te breiden. 
 
-Na het volgen van deze leertaak heb je zelf een visitekaartje ontworpen en gemaakt. Je leert werken met de Development Lifecycle. Je hebt hiervoor een aantal eigen ontwerpbeslissingen gemaakt en HTML (voor de structuur), CSS (voor de vormgeving) en JS (voor de interactie) gebruikt om het ontwerp te bouwen. Tot slot heb je jouw visitekaartje gepubliceerd via GitHub Pages en met een aantal klasgenoten getest of het werkt zoals je bedoelde.
+Kijk steeds terug naar eerder gemaakte visitekaartjes, formuleer verbeterpunten en pak die aan.
 
+### Analyseren
+*In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.*
 
+<details>
+<summary>Aanpak</summary>
 
-### Werkwijze
+1. Kijk terug naar een eerder gemaakt visitekaartje (duplicate, experiment, extension)
+2. Formuleer verbeterpunten op basis van feedback die je hebt gekregen of nieuwe dingen die je wilt leren.
+3. Zoek bronnen (bijvoorbeeld uit eerdere leertaken) die je kunt gebruiken om geformuleerde punten aan te pakken en noteer die
+4. Kies het belangrijkste verbeterpunt en ga daar mee aan de slag
 
-Deze leertaak wordt behandeld in de eerste week van Sprint 1 met verschillende workshops:
+</details>
 
-- [Visitekaartje ontwerpen, maken en online publiceren](visitekaartje-ontwerpen-maken-en-online-publiceren.md) - Maandag
-- [CSS Basics, Properties en selectors](css-basics-properties-en-selectors.md) - Dinsdag
-- [Breakdown schets](breakdown-schets.md) - Woensdag
-- [JS en Interactie](js-en-interactie.md) - Donderdag
-- [Code/Design review visitekaartje](code-design-review-visitekaartje.md) - Vrijdag
+### Ontwerpen
+*In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen.*
 
+<details>
+<summary>Aanpak</summary>
 
+1. Maak schetsen van een aantal variaties van het idee dat je wilt uitvoeren
+2. Vergelijk je schetsen, bespreek deze met een docent en kies onderbouwd welke versie je uit gaat werken
 
+</details>
 
-## Definition of Done
+### Bouwen
+*In de bouwfase realiseer je de beslissingen uit de ontwerpfase.*
 
-Deze opdracht is done als:
+<details>
+<summary>Aanpak</summary>
 
-- [ ] Je visitekaartje staat op GitHub en heeft een live url
-- [ ] Je hebt iteratief gewerkt
-- [ ] Je hebt een breakdown-schets gemaakt en hierop feedback gekregen in een GitHub Issue
-- [ ] Je hebt het ontwerp voor het visitekaartje gerealiseerd met HTML, CSS en/of JS en je hebt je code uitgelegd in comments
-- [ ] Je hebt een code/design review gedaan en feedback gekregen in GitHub Issues
+1. Realiseer het door jou gekozen idee
 
+</details>
+
+### Integreren
+*In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien.*
+
+<details>
+<summary>Aanpak</summary>
+
+1. 'Push' jouw aanpassingen naar Github (en publiceer via Github pages) 
+
+</details>
+
+### Testen
+*In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.*
+
+<details>
+<summary>Aanpak</summary>
+
+1. Laat jouw visitekaartje aan iedereen zien
+2. Noteer feedback
+3. Ga terug naar de analysefase voor een volgende ronde verbeteringen
+
+</details>
+
+## Criteria
+*Definitions of done*
+
+Je bent klaar als je jouw proces (ontwerpbeslissingen, schetsen, inzichten en testresultaten) hebt gedocumenteerd in de README.md in jouw fork van deze repository. Ook moet jouw visitekaartje bereikbaar zijn via gh-pages.
+
+Focus sprint 1 - De focus in deze sprint ligt op kennismaken, samenwerken en hoe je interface en vormgevingsprincipes kan toepassen voor een responsive design. Hoe gaan werken we bij FDND, wat wordt er van je verwacht, welke mindset is nodig.
