@@ -2,9 +2,9 @@
   !*** css ../node_modules/css-loader/dist/cjs.js!../node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[2].use[2]!../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[2].use[3]!../node_modules/sass-resources-loader/lib/loader.js??ruleSet[1].rules[2].use[4]!./assets/scss/app.scss ***!
   \****************************************************************************************************************************************************************************************************************************************************************************************************/
 :root {
-  --dark: #010101;
-  --darkgrey: #1a1a1a;
-  --light: #f5f2eb;
+  --dark: #ffdef8;
+  --darkgrey: #54314a;
+  --light: #f5b5ea;
   --bezier: cubic-bezier(0.17, 0.67, 0, 1);
   --font-weight: 900;
 }
